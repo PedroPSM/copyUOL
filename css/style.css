@@ -1,0 +1,168 @@
+.nav-top ul{
+    gap: 2rem;
+    font-size:calc(0.5vmin + 0.5rem) ;
+}
+
+.font-famy{
+    font-family: 'Dosis', sans-serif;
+}
+
+
+
+.bg-black{
+    background-color: rgb(29, 29, 29);
+    color: white;
+    
+}
+
+.color-black a{
+    color: black;
+}
+
+.link a{
+    text-decoration: none;
+    color: black;
+}
+
+.font-14{
+    font-size: 14px;
+}
+
+.bg-black a{
+    text-decoration: none;
+    color: white;
+}
+
+.hg a:hover{
+    opacity: 0.7;
+}
+
+.w-40{
+    max-width: 270px;
+}
+
+.font-8{
+    font-size: 12px;
+}
+
+.m-100{
+    margin-bottom: 50px;
+}
+
+.w300{
+    width: 200px;
+}
+
+.w200{
+    width: 300px;
+}
+
+.w250{
+    width: 200px;
+}
+
+
+
+.w350{
+    width: 350px;
+}
+
+a:hover{
+    opacity: 0.7;
+}
+
+.w400{
+    width: 400px;
+}
+
+.text-roxo{
+    color: rgb(90, 0, 194);
+}
+
+.text-beg{
+    color: rgb(129, 115, 36);
+}
+
+.text-red{
+    color: red;
+}
+
+.bg-roxo{
+    background-color: rgb(90, 0, 194);
+}
+
+.bg-beg{
+    background-color: rgb(129, 115, 36);
+}
+
+.mt-300{
+    margin-top: 300px;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.w500{
+    width: 500px;
+}
+
+.m500{
+    margin-bottom: 550px;
+}
+
+.w-500{
+    max-width: 700px;
+}
+
+.w-600{
+    max-width: 0px;
+}
+
+.border-3px{
+    border-top: 3px solid;
+}
+
+.btn-top{
+    
+    font-size: 14px;
+    border: none;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+.link-none a{
+    text-decoration: none;
+}
+
+.bg-trans {
+    background-color: rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+}
+
+.bg-back{
+    background-color: rgb(235, 235, 235);
+}
+
+
+.left-0{
+    bottom: 0px;
+}
+
+.font-12{
+    font-size: 12px;
+}
+
+.font-res{
+    font-size: 1vmin + 1rem;
+}
+
+.font-tamb{
+    font-size: calc(1rem + 0.5vmin);
+}
+
+.font-25{
+    font-size: 13px;
+    max-width: 200px;
+}
